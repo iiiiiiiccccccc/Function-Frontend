@@ -16,8 +16,11 @@ getBalance: Returns the current balance stored in the contract.
 The frontend, built with React, allows users to interact with the deployed smart contract:
 
 Connect to MetaMask: Allows users to connect their MetaMask wallets.
+
 View Account Balance: Displays the current balance of the contract.
+
 Deposit: Enables the owner to deposit funds into the contract.
+
 Withdraw: Allows the owner to withdraw funds from the contract.
 
 # Steps to Run the Project Locally
